@@ -23,6 +23,7 @@
 
 - (IBAction)laodHTML:(id)sender {
     DKSHTMLController *htmlVC = [[DKSHTMLController alloc] init];
+    htmlVC.htmlUrl = @"https://www.baidu.com";
     [self.navigationController pushViewController:htmlVC animated:YES];
 }
 

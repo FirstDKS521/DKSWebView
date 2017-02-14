@@ -522,6 +522,7 @@
 				611E9B0E1E52AC8800EAFF43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		611E9B0F1E52AC8800EAFF43 /* Build configuration list for PBXNativeTarget "DKSWebViewTests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +531,7 @@
 				611E9B111E52AC8800EAFF43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		611E9B121E52AC8800EAFF43 /* Build configuration list for PBXNativeTarget "DKSWebViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -538,6 +540,7 @@
 				611E9B141E52AC8800EAFF43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

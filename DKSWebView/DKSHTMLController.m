@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.webView.delegate = self;
-    [self loadHTML:@"https://www.baidu.com"];
+    [self loadHTML:self.htmlUrl];
 }
 
 @end

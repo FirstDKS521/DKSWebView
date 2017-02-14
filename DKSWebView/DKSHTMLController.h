@@ -10,4 +10,7 @@
 
 @interface DKSHTMLController : DKSWebViewController
 
+/** HTML的URL*/
+@property (nonatomic, copy) NSString *htmlUrl;
+
 @end
