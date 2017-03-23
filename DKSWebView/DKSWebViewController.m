@@ -26,7 +26,7 @@
 //关闭按钮
 @property (nonatomic, strong) UIBarButtonItem *closeItem;
 
-//下面的三个属性是添加精度条的
+//下面的三个属性是添加进度条的
 @property (nonatomic, assign) BOOL theBool;
 @property (nonatomic, strong) UIProgressView *progressView;
 @property (nonatomic, strong) NSTimer *timer;
